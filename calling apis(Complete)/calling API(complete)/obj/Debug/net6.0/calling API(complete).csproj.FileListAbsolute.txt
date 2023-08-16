@@ -1,0 +1,19 @@
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\bin\Debug\net6.0\calling API(complete).exe
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\bin\Debug\net6.0\calling API(complete).deps.json
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\bin\Debug\net6.0\calling API(complete).runtimeconfig.json
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\bin\Debug\net6.0\calling API(complete).dll
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\bin\Debug\net6.0\calling API(complete).pdb
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\obj\Debug\net6.0\calling API(complete).csproj.AssemblyReference.cache
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\obj\Debug\net6.0\calling API(complete).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\obj\Debug\net6.0\calling API(complete).AssemblyInfoInputs.cache
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\obj\Debug\net6.0\calling API(complete).AssemblyInfo.cs
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\obj\Debug\net6.0\calling API(complete).csproj.CoreCompileInputs.cache
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\obj\Debug\net6.0\calling API(complete).csproj.CopyComplete
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\obj\Debug\net6.0\calling API(complete).dll
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\obj\Debug\net6.0\refint\calling API(complete).dll
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\obj\Debug\net6.0\calling API(complete).pdb
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\obj\Debug\net6.0\calling API(complete).genruntimeconfig.cache
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\obj\Debug\net6.0\ref\calling API(complete).dll
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sony\Desktop\calling apis(Complete)\calling API(complete)\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
